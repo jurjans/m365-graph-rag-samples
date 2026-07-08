@@ -1,0 +1,5 @@
+msal>=1.28
+requests>=2.31
+anthropic>=0.40
+# For the Azure OpenAI variant instead of Anthropic:
+# openai>=1.40
