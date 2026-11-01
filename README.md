@@ -2,7 +2,7 @@
 
 Small, runnable patterns for grounding an LLM answer in **Microsoft 365** data: the unglamorous plumbing behind a private AI assistant on SharePoint and Microsoft Graph.
 
-They show, in simplified form, the kind of plumbing behind [**Answergrove**](https://ksj.lv/en/answergrove/), our private AI assistant that answers your team's questions from your own SharePoint documents and lists, with the document, page and version it came from. Answergrove is [available on Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/saas/siaksj.answergrove). The samples are **illustrative**, so you can see that "private AI on M365" is real engineering, not a wrapper demo.
+They show, in simplified form, the kind of plumbing behind [**Answergrove**](https://ksj.lv/en/answergrove/), our private AI assistant that answers your team's questions from your own SharePoint documents and lists, with the document, page and version it came from. Answergrove is [listed on Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/saas/siaksj.answergrove). The samples are **illustrative**, so you can see that "private AI on M365" is real engineering, not a wrapper demo.
 
 > ⚠️ **Illustrative only.** These snippets use synthetic/demo data and are meant to show the shape of each pattern. They are not a production system and contain no client data.
 
