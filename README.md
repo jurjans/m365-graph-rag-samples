@@ -31,9 +31,9 @@ cp .env.example .env   # then fill in your tenant / client / secret
 
 ## Why this matters
 
-A private AI assistant on SharePoint is only credible if the retrieval is real: answers cite their source, and permissions are respected. In Answergrove, SharePoint permissions are checked before anything is shown, and the language models are Azure OpenAI in the EU Data Zone. It works alongside Microsoft 365 Copilot in the same tenant.
+A private AI assistant on SharePoint is only credible if the retrieval is real: answers cite their source, and permissions are respected. In Answergrove, SharePoint permissions are checked before anything is shown, and the language models are Azure OpenAI in the EU Data Zone. It works alongside Microsoft Copilot in the same tenant.
 
-Coming in the next version: Answergrove prepares e-mails, tasks and meeting invitations from the chat. You check each one and send it yourself.
+Answergrove also prepares e-mails, tasks and meeting invitations from the chat, in your own name. You check each one and send it yourself.
 
 ## About
 
